@@ -6,7 +6,7 @@ tags:
 - Hugo
 - GitHub
 - Git
-summary: Referece to how this site was built.
+summary: Reference on how this site was built.
 date: 2022-12-28
 ---
 
